@@ -1,0 +1,2 @@
+#define MYNAME "Ping-Jui"
+#cmakedefine USE_MYLIB 

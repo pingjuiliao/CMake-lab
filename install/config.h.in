@@ -1,0 +1,2 @@
+#define AUTHOR "Ping-Jui"
+#cmakedefine USE_MYLIB
